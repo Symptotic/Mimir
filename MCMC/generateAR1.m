@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 %% Generates AR(1) – time series process
 %  written by:
 %      Artem Yazykov
@@ -9,6 +10,10 @@
 %                      If you find any mistakes please email yazikov87@gmail.com
 %%
 clear; clc;
+=======
+clear; clc;
+% Generates AR(1) – time series process
+>>>>>>> 9631df8a9e52c14579411ce34531d2e934553cdd
 T = 100; % T = number of observations
 c =  0.9; % ñ = constant of the process
 fi = 0.5; % fi = coefficient
